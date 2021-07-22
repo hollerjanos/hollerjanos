@@ -4,8 +4,8 @@
 
 | Attribute | Description                              |
 | --------- | ---------------------------------------- |
-| OS        | Ubuntu 20.04                             |
 | Kernel    | Linux version 5.8.0-63-generic           |
+| OS        | Ubuntu 20.04                             |
 | Terminal  | Alacritty 0.8.0                          |
 | Shell     | Zsh 5.8                                  |
 | Editor    | Neovim 0.4.3                             |
