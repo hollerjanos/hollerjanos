@@ -2,15 +2,15 @@
 
 ##### My current specifications:
 
-| Attribute         | Description                    |
-| ----------------- | ------------------------------ |
-| Kernel            | Linux version 5.8.0-63-generic |
-| Operating System  | Ubuntu 20.04                   |
-| Window Manager    | Xmonad 0.15                    |
-| File Manager      | Vifm 0.10.1                    |
-| Terminal Emulator | Alacritty 0.8.0                |
-| Shell             | Zsh 5.8                        |
-| Text Editor       | Neovim 0.4.3                   |
+| Attribute             | Description                    |
+| --------------------- | ------------------------------ |
+| Kernel                | Linux version 5.8.0-63-generic |
+| Operating System      | Ubuntu 20.04                   |
+| Window Manager        | Xmonad 0.15                    |
+| Terminal File Manager | Vifm 0.10.1                    |
+| Terminal Emulator     | Alacritty 0.8.0                |
+| Shell                 | Zsh 5.8                        |
+| Text Editor           | Neovim 0.4.3                   |
 
 <!--
 **hollerjanos/hollerjanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
