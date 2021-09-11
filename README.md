@@ -5,7 +5,7 @@
 | Attribute             | Description                    |
 | --------------------- | ------------------------------ |
 | Kernel                | Linux version 5.8.0-63-generic |
-| Operating System      | Ubuntu                         |
+| Operating System      | Ubuntu 20.04.3 LTS             |
 | Window Manager        | i3                             |
 | Terminal File Manager | Vifm                           |
 | Terminal Emulator     | Alacritty                      |
