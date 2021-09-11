@@ -5,12 +5,13 @@
 | Attribute             | Description                    |
 | --------------------- | ------------------------------ |
 | Kernel                | Linux version 5.8.0-63-generic |
-| Operating System      | Ubuntu 20.04                   |
-| Window Manager        | i3 4.19.1                      |
-| Terminal File Manager | Vifm 0.10.1                    |
-| Terminal Emulator     | Alacritty 0.9.0                |
-| Shell                 | Zsh 5.8                        |
-| Text Editor           | Neovim 0.4.3                   |
+| Operating System      | Ubuntu                         |
+| Window Manager        | i3                             |
+| Terminal File Manager | Vifm                           |
+| Terminal Emulator     | Alacritty                      |
+| Shell                 | Zsh                            |
+| Text Editor           | Neovim                         |
+| Notification daemon   | Dunst                          |
 
 <!--
 **hollerjanos/hollerjanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
