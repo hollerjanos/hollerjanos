@@ -2,16 +2,16 @@
 
 ##### My current specifications:
 
-| Attribute             | Description                    |
-| --------------------- | ------------------------------ |
-| Kernel                | Linux version 5.8.0-63-generic |
-| Operating System      | Ubuntu 20.04.3 LTS             |
-| Window Manager        | i3                             |
-| Terminal File Manager | Vifm                           |
-| Terminal Emulator     | Alacritty                      |
-| Shell                 | Zsh                            |
-| Text Editor           | Neovim                         |
-| Notification daemon   | Dunst                          |
+| Attribute             | Description                        |
+| --------------------- | ---------------------------------- |
+| Kernel                | [Linux](https://www.linux.org)     |
+| Operating System      | [Ubuntu](https://ubuntu.com)       |
+| Window Manager        | [i3](https://i3wm.org)             |
+| Terminal File Manager | [vifm](https://vifm.info)          |
+| Terminal Emulator     | [alacritty](https://alacritty.org) |
+| Shell                 | [zsh](https://ohmyz.sh)            |
+| Text Editor           | [neovim](https://neovim.io)        |
+| Notification daemon   | [dunst](https://dunst-project.org) |
 
 <!--
 **hollerjanos/hollerjanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
